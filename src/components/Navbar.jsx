@@ -7,7 +7,7 @@ function Navbar() {
   return (
     <div>
       <header className="w-full bg-white border-b border-gray-200 px-4 pt-3 pb-2">
-        {/* Top Row */}
+        
         <div className="flex items-center justify-between">
           <MenuIcon className="text-2xl text-gray-700 cursor-pointer" />
 
